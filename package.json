@@ -1,0 +1,25 @@
+{
+  "name": "node-debug-hack",
+  "version": "0.1.0",
+  "description": "Wrap function creation during debug to force a diffrent port.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Reregistered/node-debug-hack.git"
+  },
+  "keywords": [
+    "debug",
+    "fork",
+    "spawn",
+    "exec",
+    "port",
+    "hang"
+  ],
+  "author": "Dov Amihod",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "9c1655b3b3aa1203d578ec3f591468f736234405"
+}
